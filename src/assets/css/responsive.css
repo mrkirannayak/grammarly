@@ -1,0 +1,226 @@
+/* ************* Media Queries Tablets ****************** */
+@media only screen and (max-width: 1280px) {
+  .container {
+    max-width: 100%;
+    padding: 0 20px;
+  }
+}
+@media only screen and (max-width: 1169px) {
+  .css-1oqqzyl-MuiContainer-root {
+    width: 100%;
+    max-width: 100% !important;
+    padding: 0 20px !important;
+  }
+  .unlockPremiumBox {
+    margin: 0 auto;
+    max-width: 100%;
+    width: 100%;
+    padding: 0 20px;
+  }
+  .upgradePremiumBox {
+    max-width: 100%;
+    padding: 0 20px;
+    text-align: center;
+  }
+  .bannerTitle {
+    margin-bottom: 20px;
+  }
+  .bannerSectionWrap {
+    height: auto;
+  }
+  .swiper {
+    height: auto;
+  }
+  .informationSlider {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .informationSlider .mySwiper2 {
+    min-width: 100%;
+    width: 100%;
+  }
+  .bannerImgBox {
+    padding-left: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  .bannerImgBox img {
+    width: auto;
+    margin: 0 auto;
+  }
+  .bannerImgOne {
+    margin-bottom: 20px;
+  }
+  .bannerImgTwo {
+    position: relative;
+    left: inherit;
+    transform: inherit;
+    bottom: inherit;
+    box-shadow: none;
+  }
+  .swiper-slide {
+    background: transparent;
+  }
+
+  .GetJobDoneWrap {
+    padding: 50px 0;
+  }
+  .GetJobDoneBox {
+    flex-direction: column;
+  }
+  .infoBox {
+    text-align: center;
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .upgradePremiumWrap {
+    padding: 30px 0;
+  }
+  .footerLinks {
+    flex-direction: column;
+  }
+  .videoBootstrapDialog .css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+    max-height: 100%;
+    max-width: 90%;
+  }
+  video {
+    width: auto !important;
+    height: auto !important;
+  }
+}
+
+@media only screen and (max-width: 1023px) {
+}
+@media only screen and (max-width: 959px) {
+  .premiumCustomersWrap {
+    padding: 30px 0;
+  }
+  .premInfo {
+    text-align: center;
+  }
+  .premInfo p {
+    margin-bottom: 30px;
+  }
+  .counterBox {
+    gap: 30px;
+    flex-direction: column;
+  }
+  .counterBox .counterItem {
+    flex: 100%;
+    width: 100%;
+  }
+  .counterBox .counterItem .counterBody {
+    margin: 0 auto;
+  }
+  .counterBox .counterItem .counterInfo {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+}
+/* ************* Mobiles Media Queries ****************** */
+@media only screen and (max-width: 767px) {
+  .priceBoxWrap {
+    flex-direction: column;
+  }
+  .priceBoxGrammarly {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+  .priceHead {
+    min-height: auto;
+    text-align: center;
+  }
+  .listItem li {
+    width: 50%;
+    float: left;
+  }
+  .bannerImgBox img {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .bannerImgOne img {
+    box-shadow: none;
+  }
+  .unlockPremiumWrap {
+    padding: 0 0 30px;
+  }
+
+  .bannerTitle h1 {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .headingBox h2 {
+    font-size: 20px;
+    line-height: 32px;
+  }
+  .headingBox p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .infoBox h3 {
+    font-size: 20px;
+    line-height: 32px;
+  }
+  .infoBox p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .premInfo h3 {
+    font-size: 20px;
+    line-height: 32px;
+  }
+  .premInfo p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .counterBox .counterItem .counterInfo {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .upgradePremiumWrap {
+    min-height: auto;
+  }
+  .upgradePremiumBox h2 {
+    font-size: 20px;
+    line-height: 32px;
+  }
+  .upgradePremiumBox p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+}
+@media only screen and (max-width: 639px) {
+  .videoBox {
+    max-height: 100%;
+  }
+  .videoBox img {
+    width: 100%;
+  }
+  .footerLinks .footerLinkBox {
+    text-align: center;
+  }
+  .copyright {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 479px) {
+  .listItem li {
+    width: 100%;
+    float: none;
+    text-align: center;
+    display: block;
+  }
+  .listItem li .css-cveggr-MuiListItemIcon-root {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .css-tlelie-MuiListItemText-root {
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+@media only screen and (max-width: 359px) {
+}
